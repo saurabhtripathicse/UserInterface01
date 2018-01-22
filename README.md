@@ -2,7 +2,7 @@
 Single Login / Sign In page (only UI). No methods is inluded in the project. 
 
 Screenshot
-![Screenshot](UserInterface01/Screenshot_.png)
+![Screenshot](Screenshot_.png)
 <br>
 <img src="Screenshot_.png" align="center" />
 <br>
