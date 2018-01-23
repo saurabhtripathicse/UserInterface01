@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UserInterface01</string>
+
+    <string name="forgot_my_password"><u>FORGOT MY PASSWORD</u></string>
+    <string name="sign_up">I AM NEW IN HERE !! <u>SIGN UP</u></string>
+</resources>
